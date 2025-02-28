@@ -1,0 +1,646 @@
+1. Basic Syntax and Structure
+	Hello World program					done
+	Comments (//, /* */)					done
+	Identifiers and keywords				done
+	Data types (e.g., int, string, bool)			done
+	Variables and constants (e.g., const, readonly)		done
+	Operators (e.g., arithmetic, relational, logical)	done
+------------------------------------------------------------
+
+
+2. Control Flow
+	Conditional Statements: if, else, switch		done
+	Loops: for, while, do-while, foreach			done
+	Jump Statements: break, continue, return, goto		done
+----------------------------------------------------------
+
+
+3. Object-Oriented Programming (OOP)
+	Classes and Objects						done
+	Encapsulation (fields, properties, methods)			done
+	Constructors and Destructors
+	Inheritance (base and derived classes)
+	Polymorphism (method overriding, method overloading)		done
+	Abstraction (abstract classes and interfaces)			done
+	Encapsulation (access modifiers: public, private, protected)
+----------------------------------------------------------------------
+
+
+4. Advanced Topics
+	Delegates (multicast, anonymous methods)
+	Events (event handling in C#)
+	Lambda Expressions
+	LINQ (Language Integrated Query)
+	Anonymous Types
+	Extension Methods
+----------------------------------------------------
+
+
+5. Collections and Data Structures
+	Arrays					  done
+	Lists (List<T>)
+	Dictionaries (Dictionary<TKey, TValue>)
+	Queues and Stacks
+	HashSet and SortedSet
+-------------------------------------------------
+
+
+6. Exception Handling
+	Try-Catch-Finally blocks
+	Throwing exceptions
+	Custom exceptions
+-----------------------------------
+
+
+7. Memory Management
+	Garbage Collection
+	Stack vs. Heap
+	Dispose Pattern and IDisposable interface
+---------------------------------------------------
+
+
+8. File I/O
+	Reading and writing files (e.g., StreamReader, StreamWriter, FileStream)
+	Directory operations
+	Serialization and Deserialization (e.g., XML, JSON)
+--------------------------------------------------------------
+
+
+9. Multithreading and Asynchronous Programming
+	Threads and Task Parallel Library (TPL)
+	Async and Await
+	CancellationToken
+	Parallel Programming
+	Thread synchronization (e.g., lock, Monitor, Mutex, Semaphore)
+-----------------------------------------------------------------------
+
+
+10. Generics
+	Generic Classes
+	Generic Methods
+	Constraints in Generics
+	Collections in Generics (List<T>, Dictionary<TKey, TValue>)
+---------------------------------------------------------------------
+
+
+11. Attributes and Reflection
+	Custom Attributes
+	Reflection (inspecting metadata, runtime type discovery)
+------------------------------------------------------------------
+
+
+12. LINQ (Language Integrated Query)
+	LINQ to Objects
+	LINQ to SQL
+	LINQ with Collections
+	Lambda expressions in LINQ
+-------------------------------------
+
+
+13. Windows Forms and GUI Programming
+	Windows Forms Application (UI design with controls like buttons, labels)
+	Event handling in UI
+	Dialogs and forms management
+-------------------------------------------
+
+
+14. ASP.NET and Web Development
+	ASP.NET Core
+	MVC (Model-View-Controller) Pattern
+	Web API Development
+	Routing and Middleware
+	Entity Framework (ORM for database access)
+--------------------------------------------------
+
+
+15. Unit Testing and Test-Driven Development (TDD)
+	Testing frameworks (e.g., NUnit, MSTest, xUnit)
+	Mocking (e.g., Moq)
+	Test-driven development
+---------------------------------------------------------
+
+
+16. Design Patterns
+	Singleton Pattern
+	Factory Pattern
+	Observer Pattern
+	Strategy Pattern
+	Dependency Injection
+-------------------------------
+
+
+17. C# Language Features
+	Tuples
+	Pattern Matching
+	Nullable reference types
+	Records and Init-only properties
+	Span<T> and Memory<T> (efficient memory handling)
+-----------------------------------------------------------
+
+
+18. Advanced Topics
+	Unsafe Code (using pointers)
+	Interop with C/C++	
+	Reflection and Dynamic Programming
+	Dependency Injection and Inversion of Control
+----------------------------------------------------------
+
+
+19. Cross-Platform Development
+	.NET Core and .NET 5/6/7 (cross-platform development)
+	Xamarin (mobile app development)
+	Blazor (WebAssembly-based applications)
+---------------------------------------------------------------
+
+
+20. Cloud and Distributed Systems
+Azure integration (e.g., Azure Functions, Azure Storage)
+Microservices architecture
+Message Queuing and Event-Driven Systems
+--------------------------------------------------------------
+
+
+
+Information Security Awareness imps points:
+-------------------------------------------------
+- The purpose of Security Awareness training is to make all employees aware of information security policies, help us deal with problems when they arise, and to meet our compliance training requirements.
+
+
+- Actions to protect your company's data and reputation ::
+	1. Update your anti-virus and anti-malware software.
+	2. Don't install unapproved software.
+	3. Keep your computer operating system current. 
+	4. Log Off and use password protected screen saver.
+	5. Physically locked up documents that contain sensitive information when not in use.
+	6. Adopt Clear screen or Clear desk approach to your work.
+	7. Never write your passwords down.
+	8. Never open email attachments that come from people you don't know.
+---------------------------------------------------------------------------------------------
+
+
+What is Phishing?
+------------------------
+- it is a method of trying to gather personal information using deceptive emails and websites.
+
+examples how hackers send emails for phishing:
+--------------------------------------
+1. Your account has been hacked.
+2. Password Reset.
+3. Payment request
+4. Charity donation.
+------------------------------------------------------
+
+
+What is Social Engineering?
+-------------------------------
+- Traditional hacking aims to compromise the security systems and applications, Social Engineering attackers attempt the exploit the users of these technologies by claiming to be employees, vendors or support personnel to try to trick the workers people are trusting and willing to help others and the attackers use that to their advantage by deceiving users to reveling the information that compromises data security.
+
+- Traditional Protection from malware and viruses will not protect you from a social engineering attack, once they gather bits and pieces of the organization, they will be able to put the puzzle together and exploit the business.
+
+- Techniques for social engineering are :
+	1. Phishing Emails 
+	2. Physical Breaches
+	3. Pretext Calling 
+	4. Tailgating
+
+
+
+
+topic to find??????
+----------------------------------
+- what is key difference between java and c#?
+- namespace must be same of all the programs in a same folder. 
+- PascalCase
+- camelCase
+- reading and writing console 
+- how to run c# code
+- and try to create object for it 
+- and get revision for next day  
+- string and stringbuilder
+- arrays & its types
+- constructor 
+- loops 
+- control structure
+- switch statement
+- what is value type and reference type in c#
+- what is .NET Framework?
+- what is BCL?
+- what is CLR?
+- what is nullable & its types?
+- OOPs
+- class & object 
+- inheritance 
+- types of inheritance 
+- what is reference / static variable?
+- what is instance variable?
+- what is method overriding?
+- what is method overloading?
+- what is "static" keyword means?
+- what is purpose "using" statement in C#?
+- what does "this" keyword means?
+- what is ArrayList?
+- syntax of ArrayList
+- what is Hashtable?
+- what is file handling?
+- difference between Arraylist & Hashtable
+- difference between interface & abstract
+- what is stack?
+- what is queue?
+- what is exception?
+- 
+
+
+
+
+
+DAY 1: (27-01-2025)
+Agenda: 
+1) .Net Framework
+2) Tools/Software Installation
+3) Simple program on C#
+4) Data Types 
+5) How to take input from user
+
+Applications: Console, Windows, MVC, ASP.NET, Web API
+
+What is C#.Net??
+----------------------------------
+- it contains all the features of C++, VB.Net, Java as well as some additional features.
+- .Net: . refered to as a object oriented.
+--------------------------------------------------------------
+
+
+What is the features of C#.Net?
+--------------------------------------------------
+1) Simple 
+2) Secure
+3) Robust
+4) Portable
+5) Platform Independent
+6) Multithreaded 
+7) OOPS
+----------------------------------------
+
+
+- Before .Net Framework there is Strong Type Network.
+---------------------------------------------------------
+
+COM Framework: Component Object Model, VB Language.
+------------------------------------------------------
+
+Drawbacks of C#.Net:
+-----------------------------
+1) it will not support all the features of OOPs.
+2) Platform independent -------- but an run only on Windows OS.
+------------------------------------------------------------------
+
+
+What are the Editors of C#.Net?
+---------------------------------------
+VS :
+VS code editor:
+OmniSharp:
+JetBrains Rider:
+---------------------------------------
+
+
+What is Framework?
+--------------------------
+- Framework is collection of many small technologies integrated together to develop applications that can be executed anywhere.
+-----------------------------------------------------------------
+
+
+What .NET Framework provides?
+---------------------------------------
+1) BCL (Base Class Libraries): 
+	- designed by Microsoft
+	- used for creating web class applications.
+	- 
+--------------------------------------------------------
+2) CLR (Common Language Runtime):
+	- responsible for converting MSIL (Microsoft Intermediate Language)
+
+
+SC(source code) ---> IL(intermediate language) ---> (JIT- just in time) CLR ---> ML(machine learning)
+
+C# VB (Source code) ==> Language Complier ---> MSIL/IL/Manage Code ---> CLR(JIT) ---> Native Code ---> EXECUTE
+
+
+What is JIT?
+--------------------------
+- it is component of CLR that is responsible for converting MSIL code into Native code.
+- Native code: is a type of code which is directly understandable by the OS.
+
+
+
+.Net Framework is available in three different flavors:
+------------------------------------------------------------
+1) .Net Framework---> Windows OS
+2) .Net ---> .Net Core : Linux, macOS
+3) Xamarin/Mono : Mobile OS
+-------------------------------------------
+
+
+Installation of:
+- SDK
+- .Net 
+
+Steps to create and run:
+1. Creaate a dir and get inside that folder or dir.
+2. dotnet new console (it will create a project with the same name as your folder name)
+3. donet build --> to create a dll(il) file.
+4. dotnet run --> EXECUTE
+
+OR
+
+1. dotnet new console -o <projectname>
+2. cd <projectname>
+3. dotnet build 
+4. dotnet run 
+
+IDE's:
+1) Visual Studio Code
+2) Visual Studio 2022 (Community Version)
+
+
+Rules for initializing variables:
+-------------------------------------
+- 
+
+
+
+
+DAY 2(28-01-25)
+1) static keywords & its methods and properties.
+2) Control Flow Statements
+3) switch case 
+4) Array
+5) 
+
+
+
+
+
+Console static method: 
+- static type of class contains all the static methods.
+- static is a keyword in which you can create static methods, static variables and the advantage is that you can call the static methods directly with the class name.
+- no need to create object can directly access through static method.
+- here we have static class as Console.
+- e.g: Console.WriteLine(), Console.ReadLine();
+---------------------------------------------------------------------------------
+
+
+Properties of a Console class:
+- Title 
+- BackgroundColor
+- ForegroundColor
+- CursorSize
+--------------------------------
+
+Methods of Console class:
+- Clear()
+- WriteLine()
+- Write()
+- Read()
+- ReadLine()
+- ReadKey()
+----------------------------
+
+
+Control Flow Statements:
+------------------------
+
+1) Selection Statements or Branching statements: if, if-else, nested if-else
+2) Iteration statements or Looping statements: while, for, for-each, do-while
+3) Jumping statements : break, goto, return, continue
+
+
+
+
+
+
+
+
+Array:
+----------
+- it is collection of homogenous items and it takes a contiguous memory location. 
+- for searching and modifying any element in an array we use index no. 
+- and it's fast, it is static or fixed in nature.
+--------------------------------------------------------------------------------
+
+
+ArrayList:
+----------------
+- it is dynamic nature, adding or deleting any item.
+
+
+Jagged Array : 
+----------------------
+            int[][] ja = new int[3][]; 
+            ja[0] = new int[] { 1, 2, 3 }; 
+            ja[1] = new int[] { 4,5 }; 
+            ja[2] = new int[] { 6,7,8}; 
+
+
+
+
+
+
+DAY 3(29-01-25)
+1. Keywords: static, this
+2. OOPs intro 
+3. Pillars of oops
+4. Advantages and disadvantages of OOPs
+5. Method, properties and namespace
+6. Folder creation 
+
+
+Strategies  --- >   OOPS   ---> Principles 
+
+- Structured Programming 
+- Procedural Programming or Modular Programming ---> When we create different sets of functions(Operations to perform) i.e is a Modular Programming 
+- OOPS Programming- When we create different sets of functions(Operations to perform) but here we can call as object. And each object has its relevant functions 
+-----------------------------------------------------------------------------------------------------------
+
+
+OOPs:
+------------
+- in oops the software ---> it is collection of objects containing functions and data related to those functions but in Modular programming the system was a collection of functions.
+
+
+
+Problems in Modular Programming
+---------------------------------
+1. Reusability: 
+	- we must have to write the same code or logic at multiple places, which increases code duplication for that we use reusability in OOPs comes in picture to overcome this problems.
+	- Class & Objects is used here.
+-----------------------------------------------------------------------
+
+2. Extensibility:
+	- it is not easy to extend additional features from one code to another and also to overcome this problem again OOPs concept comes in the picture. 
+	- Inheritance :: Aggregation/Composition comes here.
+------------------------------------------------------------------------
+
+3. Simplicity:
+	- we usually end up with many functions and codes in the scattered manner and to overcome that issue to make code secure OOPs concept help in many ways.
+	- Abstraction, Encapsulation & Polymorphism.
+-----------------------------------------------------------------------
+
+4. Maintainability:
+	- it was difficult to manage and maintain the application code so here OOPs 
+	- if we all combine the properties of OOPs then we can maintainability.
+-----------------------------------------------------------------------------------------
+
+
+Abstraction:
+---------------
+	- Hiding or remove unnecessary things and providing the essential features without including the background details---> for e.g. Google search bar, ATM machine. is called as Abstraction.
+---------------------------------------------------------------------------------
+
+
+Encapsulation:
+-------------------------------------
+	- Binding the data and functions together into a single unit(Physical Implementation). 
+	- for e.g. 
+	Private String Salary   -- public getSalary(); --- ReadOnly 
+	- Private String employee name  --- public String SetName(String name){ Read / Write  } ,, public getName() 
+	- basically it means where we can hide our data.
+	- to hide our data we can declare all this properties as a Private.
+	- to set private data, we can use setter method.
+	- to get private data, we can use getter method.
+	- to get individual properties of class we can use setter & getter.
+	- encapsulation also known as data hiding, wrapping of class, data binding, model class, etc.
+	- encapsulation also known as 100% concrete class. 
+ 
+---------------------------------------------------------------------------
+
+
+Inheritance:
+- The class from which members are transferred is called as Parent / Base / Super class.
+- The class which inherits the Parent / Base / Super class members is called as Derived / Child / Subclass.
+- There are different types of Inheritance:
+	1. Single Inheritance 
+	2. Multilevel Inheritance 
+	3. Multiple Inheritance
+	4. Hierarchical Inheritance
+	5. Hybrid Inheritance
+ 
+------------------------------------------------------------------------- 
+
+
+Polymorphism:
+- Subclasses or child class of a parent class can define their own unique behaviors and yet can share some of the same functionality of the parent class.
+- We can say that the same function will have or show the different behavior by taking different types of values or with a different number of values.
+- The ability to take more than one form. 
+- it allows objects to behave differently based on their specific class type.
+- There are two types of polymorphism:
+	1. Static Polymorphism / Compile-time Polymorphism / Early Binding
+	2. Dynamic Polymorphism / Run-time Polymorphism / Late Binding 
+-----------------------------------------------------------------------------------
+
+1. Static Polymorphism / Compile-time Polymorphism / Early Binding :
+	- this type of function achieve by function/method overloading or operator overloading.
+	- Function/Method Overloading: It is a feature in java where multiple functions can have the same name but with different parameter lists.
+
+
+2. Dynamic Polymorphism / Runtime Polymorphism / Late Binding :
+	- it is process in which function call to the overridden method is resolved at Runtime.
+	- This type of polymorphism is achieved by Method Overriding. 
+	-Method overriding, on the other hand, occurs when a derived/child class has a definition for one of the member functions of the base/parent class.
+
+------------------------------------------------------------------------------------------
+
+
+
+Constructor:
+	- Constructor is a special method present inside a class responsible for initializing the variable of that class.
+	- it invoked implicitly during object creation. 
+	- it have a same name as class name with ().
+	- it have two types of constructor:  
+		1. argument base constructor or default constructor
+		2. non-argument based constructor or parameterized constructor
+	- and to call parameterized constructor we have call it explicitly we need to pass and argument during object creation.
+--------------------------------------------------------------------------------------------------
+
+
+Access Specifer:
+-----------------------------
+	- a keyword that defines how accessible a variable, method, or class is. 
+	- Special kind of modifiers which is used to define scope of a type(class, interface, delegates) and its members(variables, properties, construstor, methods).
+	
+	= What is Assemblies?
+		- Assemblies are the building block of the .Net framework applications and also a fundamental unit of deployment.
+		- It is a precompiled .Net code that can be run by CLR. 
+
+	- There are two types of assemblies :
+		1. Assembly EXE --> Console Application
+		2. Assembly DLL --> Class Library (where there is no main() or not a executable file)
+	- There are three types of Access Specifier : 
+		1. Private 
+		2. Protected 
+		3. Default 
+		4. Public 
+		5. Internal
+		6. Protected Internal
+		7. Private Internal (7.2 version Onwards)
+-----------------------------------------------------------------------------------
+
+1. Private Access Specifier :
+	- The private access modifier is specified using the keyword private. 
+	- The methods or data members declared as private are accessible only within the class in which they are declared.
+	- we can use private access specifier with methods & variables only.
+	- Any other class of the same package will not be able to access these members.
+	- Top-level classes or interfaces can not be declared as private because, 
+		- private means “only visible within the enclosing class“.
+		- protected means “only visible within the enclosing class and any subclasses“.
+
+
+2.Protected Access Specifier :
+	- To use protected access specifier we can use the keyword protected.
+	- protected access specifier can be used in methods & variables.
+	- scope of this access specifier is up to within a package and outside the package only through child class.
+ 
+
+3. Default Access Specifier :
+	- When no access modifier is specified for a class, method, or data member, it is said to be having the default access modifier by default.
+	- It accessible only within the same package.
+	- Also known as Package Access Specifier.
+	- It can be used with class, method and variable.
+
+4. Public Access Specifier :
+	- to use public access specifier we can use the public keyword.
+	- public access specifier can be used with the class, methods and variables.
+	- scope of public access specifier is throughout the class.	
+				or 
+	- public access modifier has the widest scope among all other access modifiers.
+	- classes, methods, or data members that are declared as public are accessible from everywhere in the program. 
+	- there is no restriction on the scope of public data members.
+--------------------------------------------------------------------------------------------
+ 
+
+Class & Object :
+--------------------
+	- Class :
+		- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

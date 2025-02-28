@@ -1,0 +1,14 @@
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\bin\Debug\net9.0\NewFolder.exe
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\bin\Debug\net9.0\NewFolder.deps.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\bin\Debug\net9.0\NewFolder.runtimeconfig.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\bin\Debug\net9.0\NewFolder.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\bin\Debug\net9.0\NewFolder.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.AssemblyInfoInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.AssemblyInfo.cs
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.csproj.CoreCompileInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\refint\NewFolder.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\NewFolder.genruntimeconfig.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\NewFolder\obj\Debug\net9.0\ref\NewFolder.dll
