@@ -1,0 +1,14 @@
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\bin\Debug\net9.0\DAY5.exe
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\bin\Debug\net9.0\DAY5.deps.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\bin\Debug\net9.0\DAY5.runtimeconfig.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\bin\Debug\net9.0\DAY5.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\bin\Debug\net9.0\DAY5.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.AssemblyInfoInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.AssemblyInfo.cs
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.csproj.CoreCompileInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\refint\DAY5.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\DAY5.genruntimeconfig.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\DAY5\obj\Debug\net9.0\ref\DAY5.dll
