@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHBAN9nLQio=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SR COMPUTER\\Downloads\\WIPRO\\HTML\\DAY21\\BookStoreAPI\\BookStoreAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SR COMPUTER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\SR COMPUTER\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

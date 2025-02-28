@@ -1,0 +1,769 @@
+Introduction to JavaScript:
+--------------------------------
+
+1. History of JSP
+2. What is JSP?
+3. Popularity of JSP
+4. Applications of JSP
+5. Runtime Environment
+6. JSP vs ECMA
+7. JSP vs Typescript 
+8. JSP in Console
+9. JSP in Webpage
+10. DOM Manipulation 
+11. JSP with Node
+--------------------------------
+
+1. History of JavaScript :
+--------------------------------
+- originally named as Mocha -->> LiveScript -->> JavaScript 
+- created by Brendan Eich in 1995 when he was working at Netscape Communications Corporation 
+- JSP is an interpreted language, which means it is executed line by line.
+------------------------------------------------------------------------------------------------
+
+
+2. What is JavaScript?
+-----------------------------
+- it is high-level, dynamic programming language, commonly used for creating interactive effects within the web browsers.
+- Actions: enables interactivity (which means user web page ke sath interact kar sakhe)
+- Update: Alters page without reloading.
+- Events: Responds to user actions.
+- Data: Fetches and sends information to the server.
+--------------------------------------------------------------------
+
+
+3. Popularity of JavaScript:
+--------------------------------
+- JSP is one of the most popular programming languages in the world, consistently ranking at the top in surveys and job listings.
+-------------------------------------------------------------------
+
+
+4. Applications of JavaScript :
+----------------------------------------
+a) HTML :
+-------------
+	- what do you want on your website?
+	- defines the structure and the content of the website.
+-----------------------------------------
+
+b) CSS :
+--------------
+	- how do you want it to look?
+	- specifies the appearance and layout of the website.
+-------------------------------------------------
+
+c) JavaScript :
+-------------------
+	- what do you want to it to do?
+	- adds interactivity and dynamic behavior of the website.
+------------------------------------------------
+
+d) Web Applications :
+------------------------------
+	- React JS: a library for building user interfaces, maintained by the Facebook.
+	- Angular JS: a platform for building mobile and desktop web applications, maintained by google. 
+	- Vue.js: a progressive framework for building user interfaces.
+-------------------------------------------------------------------
+
+e) Server-side:
+-------------------------
+	- Node.js: Allows jsp to run on the server, used for building scalable network applications.
+	- Express.js: a minimal and flexible Node.js web application framework.
+-------------------------------------------------------------------
+
+
+f) Mobile Applications :
+--------------------------------------
+	- React Native: builds mobile apps using jsp and react.
+	- Ionic: a framework for building cross-platform mobile apps with web technologies like HTML, CSS and JavaScript.
+	- NativeScript: allows building native iOS and android apps using jsp or typescript.
+-------------------------------------------------------------------
+
+g) BuildTools :
+---------------------------------
+	- Webpack: a module bundler for jsp applications.
+	- Parcel: a fast, zero-configuration web application bundler.
+	- Gulp: a toolkit to automate task in your development workflow. 
+------------------------------------------------------------------
+
+h) Desktop Applications :
+----------------------------------
+	- Electron: allows building cross-platform desktop applications using HTML, CSS, and JSP.
+	- NW.js: a framework for building native applications with web technologies. 
+------------------------------------------------------------------
+
+i) Cameras and Speakers:
+---------------------------
+	- Three.js: a library that makes WebGL - 3D programming for the web - easier to use.
+	- WebRTC: a technology that enables peer-to-peer audio, video and data sharing.	
+	- Howler.js: jsp audio library for the modern web.
+-------------------------------------------------------------------------
+
+
+
+5. Runtime Environment :
+-----------------------------------
+
+- provides infrastructure to execute JSP code.
+- core: includes a JSP engine (e.g. V8, SpiderMonkey)
+- Browser Environment : offers APIs for DOM manipulation, events, and network requests.
+- Node.js : extends JSP capabilities to server-side programming.
+- Asynchronous Support : handles non-blocking operations with event loops, callbacks, and promises. 
+---------------------------------------------------------------------------------------
+
+
+
+6. JavaScript vs ECMA :
+---------------------------------
+- ECMAScript is the standardized specification developed by ECMA International that defines the core features, syntax and functionalities of JSP and similar scripting languages. 
+- JSP is the actual implementation.
+-------------------------------------------------------------------
+
+
+
+7. JavaScript vs TypeScript :
+----------------------------------------
+- JSP runs at the client side in the browser.
+- TypeScript are transpiled to JavaScript.
+
+- code -->> complier -->> executable
+- code -->> transpiler -->> code   
+
+- e.g.:
+	(x) => x+1 --->>> Transpiler --->>> function(x){return x+1;}
+----------------------------------------------------------------------------
+
+
+
+8. JavaScript in Console :
+------------------------------------
+- Allows real-time editing of HTML/CSS/JS
+- Run Scripts : Test Code in console.
+- Debug: Locate and fix errors.
+- Modify DOM: change webpage elements. 
+- Errors: view error messages.
+--------------------------------------------------
+
+
+
+9. JavaScript in Webpage :
+-------------------------------------
+<!DOCTYPE html>				//defines the HTML version
+<html lang="en">			//parent of all HTML tags / Roots elements
+    <head>				//parent of meta data tags 
+	<title>Document</title>		//title of the web page 
+    </head>				
+    <body>				//parent of content tags 
+        <h2>Hello Everyone</h2>		//heading tag
+        <h2>My name is Samiksha</h2>
+    </body>
+</html>
+
+
+a) Structure Understanding: helps in understanding the hierarchical structure of a webpage, crucial for applying targeted CSS styles.
+b) Dynamic Styling: enables learning about dynamic styling allowing for real-time changes and interactivity through CSS.
+
+
+a) Embed code: Incorporates JavaScript into an HTML file, either directly or via external files.
+b) Placement: Commonly placed in the <head> or just before the closing </body> tag to control when the script runs.
+c) External files: Use src attribute to link external JSP files, like <script src="script.js"></script>
+d) Console Method: log, warn, error, clear.
+----------------------------------------------------------------------------
+
+
+
+10. DOM Manipulation :
+-------------------------------
+a) change HTML
+b) change CSS
+c) perform functions 
+----------------------------------
+
+
+
+11. JavaScript with Node:
+----------------------------------
+a) JSP Runtime: Node.js is an open-source, cross-platform runtime environment for executing JSP codes outside of a browser. 
+
+b) NodeJs: it is a JSP in a different environment means running JS on the server or any computer.
+
+c) Built on chrome's V8 engine: it runs on V8 engine, which compiles JSP directly to native machines code, enhancing performance.
+
+d) V8 is written in C++ for speed.
+
+e) V8 + Backend features = NodeJs.
+---------------------------------------------------------
+
+
+
+Core concepts of JavaScript :
+-------------------------------------------
+
+12. Arithmetic Operators 
+13. Variables
+14. Ways to create variables
+15. Primitive Types
+16. typeof Operator
+17. Comparison operators 
+18. if-else
+19. Logical Operators
+20. Functions 
+21. Loops
+22. For loop
+23. Callbacks 
+24. Anonymous Functions as Values
+--------------------------------------------------
+
+
+
+12. Arithmetic Operators :
+--------------------------------------
+
+a) Addition (+)
+b) Subtraction (-)
+c) Multiplication (*)
+d) Division (/) : gives quotient of two numbers 
+e) Modulus (%) : give remainder of two numbers 
+--------------------------------------------------------
+
+
+
+13. Variables :
+------------------------
+- it is used to store data 
+- this are like containers used for storing data values.
+- e.g. 	var a = "Samiksha";
+	var b = 13;
+	var c = true;
+
+* Rules for declaring a variable :
+- cant use keywords or reserved words.
+- cant start with a number.
+- no special character other than $ and _
+- = is for assignment.
+- ; means end of instruction.
+- generally, 'let' is used for declaring a variable and also 'var' is used. 
+--------------------------------------------------------------------------------------------
+
+
+
+14. Ways to Create Variable :
+--------------------------------------
+
+a) var:
+	- a value stored inside var can be access through anywhere.
+	- you can also swap the value later stored in var.
+
+b) let:
+	- a value stored in a box can be access within a particular protection shield.
+	- you can swap the value only within the given protection shield.
+
+c) const:
+	- a value given using const keyword cannot be changed its locked with the value given to it.
+	- you can swap the value later but you can ask the value to change itself (if the item has method to do that).
+--------------------------------------------------------------------------
+
+
+
+15. Primitive Types:
+	- there are two types of data types in JSP- Primitive & Non-Primitive.
+	- Primitive Datatype: 
+		- this datatypes are predefined cannot change its value.
+		- in JSP these are the most basic data types that are no objects and have no methods. 
+		- they are immutable, means their value cannot be changed.
+		1. String 
+		2. Number (int, float/decimal)
+		3. Boolean 
+		4. Null
+		5. Undefined 
+	- Non-Primitive Datatypes:
+		- this datatypes can be defined by user and can be changed and ity can have objects and functions.
+		1. Object
+		2. Array
+		3. Function
+
+
+a) Number Datatype:
+	- Numbers are of two types: Integers and Decimal/Floating numbers.
+	- Integers can contain negative numbers and whole numbers.
+
+b) String Datatype:
+	- can hold textual data which can be a single character or a paragraph.
+	- can be defined using ''(single quotes), ""(double quotes), ``(backticks).
+	- backticks allow for template literals, which can include variables.
+	- can combine (concatenate) strings using + operator.
+
+c) Boolean:
+	- basic datatypes in JSP.
+	- contains only two values: true & false.
+	- 'true' is a string not a Boolean.
+
+d) Null:
+	- no value given on purpose.
+	- the type is object.
+	- the declared variable is empty or 0.
+
+e) Undefined:
+	- declared but no yet defined.
+	- the type is undefined.
+-------------------------------------------------------------------------------------
+
+
+
+16. typeof Operator:
+	- checks the data type of a variable and tells you.
+	- keyword 'typeof'.
+	- syntax: typeof variable;
+	- it returns "number", "string", "Boolean", etc.
+---------------------------------------------------------------
+
+
+
+17. Comparison Operator:
+	- Equality:
+		a) == (checks value equality)
+		b) === (checks value and type equality)
+
+	- Inequality:
+		a) != (checks value inequality)
+		b) !== (checks value and type inequality) 
+
+	- Relational:
+		a) > (greater than)
+		b) < (less than)
+		c) >= (greater than equal too)
+		d) <= (less than equal too)
+-------------------------------------------------------------------
+
+
+
+18. if-else:
+	- syntax: uses if() {} to check the condition.
+	- executes if block when the condition is true and skips if it is false.
+	- executes else block when the if condition is false.
+	- also can store conditions in variables for use in if statements.
+	- if-else ladder
+	- nested if-else
+---------------------------------------------------------------------------------
+
+
+
+19. Logical Operators:
+	- three types: && (AND), || (OR), !(NOT)
+		- AND (&&): all conditions must be true for the result to be true.
+		- OR (||): only one condition must be true for the result to be true.
+		- NOT (!): inverts the Boolean value of a condition.
+		- Lower priority than Math and Comparison Operators.
+-----------------------------------------------------------------------------
+
+
+
+20. Functions:
+	- blocks of code can be reusable.
+	- it is main principle is to "Don't repeat yourself" encourage code reusability.
+	- organizes code and performs specific task.
+	- same as variable name but in : 'camelCase'.
+	- syntax:
+		function functionName()	
+		{
+		    //code;
+		}
+		FunctionName();	//function call
+	- function also have return statement: of you have to send a value back from a function.
+	- function can return: value, variable, calculation, etc.
+	- when return statement called in function, the function immediately ends.
+	- functions also have parameters which are input values that function takes.
+	- parameters put value into function, while return gets value out.
+	- function can have same name as variable names.
+	- alert, Math.round, console.log are functions we have already functions.
+	- functions can take more than one parameter are called as Multiple Parameter.
+	- we can set a default value for a parameter.
+	- syntax of parameterized function:
+		function functionName(x, y)
+		{
+			let s = x + y;
+			return s;
+		}
+		variableName = funtionName(value1, value2);
+	- e.g. 
+		function sum(a, b)
+		{
+			let add = a + b;
+			return add; 
+		}	
+		let result = sum(2, 3);
+		console.log(result);
+---------------------------------------------------------------------------------
+
+
+
+21. What is Loop?
+	- code that runs multiple times based on a condition.
+	- loops also alter the floe of execution, similar to functions.
+	- Functions: reusable blocks of code.
+	- Loops: Repeated execution of code.
+	- loops automate repetitive task.
+	- types of loops: for, while, do-while, for-each. 
+	- iterations: number of times the program runs
+	----------------------------------------------------------
+	1) While Loop:
+		- syntax: 
+			while(condition)
+			{
+				//body of loop
+			}
+		- used for non-standard conditions.
+		- repeating a block of code while a condition is true. 
+		- always include an update to avoid infinite loops.
+	---------------------------------------------------------------
+
+
+22. For loop:
+	- syntax:
+		for(initialization; condition; update)
+		{
+			// body of loop;
+		}
+	- standard loop for running multiple times.
+	- generally preferred for counting iterations. 
+-----------------------------------------------------------------------------------------
+
+
+
+23. Callbacks :
+	- a callback is function passed as an argument to another function, which is then invoked inside the outer function to complete some kind of routine or action.
+	- Usage: callbacks are commonly used in asynchronous programming to execute code after an asynchronous operation has completed.
+-------------------------------------------------------------------------------------------
+
+
+
+24. Anonymous Functions as Values:
+	- anonymous functions are functions without a name. 
+	- they are often used as arguments to other functions or assigned to a variable.
+	- useful for creating function scopes and avoiding global variables.
+	- syntax:
+		(function() {
+			// function body;
+		});
+------------------------------------------------------------------------------------
+
+
+
+Advanced JavaScript :
+--------------------------------------
+25. Object Oriented Language
+26. Working with objects 
+27. Reference Types
+28. Arrays 
+29. for-each loops
+30. Array Methods 
+31. Arrow Functions 
+32. De-structuring 
+33. Spread & Rest Operator 
+34. Promises 
+35. Fetch API
+36. Async / Await 
+-----------------------------------------
+
+
+
+25. Object Oriented Language:
+ 	- groups multiple values together in key-value pairs.
+	- use {} to enclose properties 
+	- product{name, price}
+	- use . (dot) operator to access values.
+	- organizes related data under a single name. 
+	- e.g.
+		let product = {		// here product is object name
+		   company: 'Mango',
+		   item_name: 'Cotton striped t-shirt',		// object properties 
+		   price: 861					// key: value
+		};
+------------------------------------------------------------------
+
+
+
+26. Working with objects:
+--------------------------------------
+(Accessing Objects)
+	- access properties using . operator like product.price
+	- useful for properties like special characters product["nick-name"]. variables can be used to access properties.
+	- typeof returns object.
+	- values can be added or removed to an object.
+	- Delete values using delete.
+------------------------------------------------------------------------------
+
+
+
+27. Referenced Types :
+----------------------------------------
+(primitive vs reference types)
+
+- object work based on references, not actual data.
+- copying an object copies the reference, not the actual object.
+- when comparing with ==, you are comparing references, not content.
+- changes to one reference affects all copies.
+---------------------------------------------------------------------------
+
+
+
+28. Arrays :
+----------------------
+
+- an array is just a list of values.
+- index always starts with 0.
+- arrays are used to store multiple values in a single variable.
+- e.g. 
+	let myArray = [1, 'JSP Programming', null, true, {likes: '1 Million'}];
+- use [] to create a new array, [] brackets encloses list of values.
+- arrays can be saved to a variables.
+- use [] with index.
+- syntax rules:
+	- brackets starts and end the array.
+	- can span multiple lines.
+	- arrays can hold any value, including arrays.
+- arrays can hold any values, including arrays.
+- typeof operator on array returns object.
+--------------------------------------------------------------------
+
+
+
+29. for-each loop:
+------------------
+- a method for array iteration, often preferred for readability.
+- parameters: one for item, optional second for index.
+- using return is similar to continue in traditional loops.
+- not straightforward to break out of a forEach loop.
+- when you need to perform an action on each array element and don't need to break early.
+- e.g.
+	let foods = ['bread', 'rice', 'meat', 'pizza'];
+	foods.forEach(function(food){
+		console.log(food);
+	});
+------------------------------------------------------------------------------------------------
+
+
+
+30. Array Methods :
+--------------------
+	- Array.isArray(): checks if a variable is an array.
+	- Length propert: stores a size of an array.
+	- common methods of array:
+		1. push/pop: add or remove from end.
+		2. shift/unshift: adds or removes from front.
+		3. splice: add or remove elements from the middle.
+		4. toString: convert to string.
+		5. sort: sort elements.
+		6. valueOf: get array itself.
+	- arrays also used reference like objects.
+	- De-structuring also works for arrays.
+----------------------------------------------------------------------
+
+
+
+31. Arrow Functions:
+---------------------
+	- a concise way to write anonymous functions.
+	- for single argument: round brackets optional.
+	- for single line: curly brackets and returns optional.
+	- often used when passing functions as arguments.
+	- e.g.
+		let sum = function(a, b) {	// proper function syntax
+			return a + b;
+		}
+
+		let sum1 = (a, b) => {		// arrow function 1st type
+			return a + b;
+		}
+
+		let sum2 = (a, b) => a + b;	// arrow function 2nd type
+
+		let square = a => a * a;	// arrow function 3rd when you have only one variable to declare 
+
+(Arrow functions for anonymous & arrow callbacks)
+	- instead of naming the callback function, you can define it directly within the argument list.
+	- ES6 arrow functions can also be used as callbacks for a more concise syntax.
+	- e.g.	
+		// Anonymous callback function
+		fetchData(function(data) {
+			console.log('Received: ', data);
+		});
+
+
+		// Arrow function as callback		
+		fetchData(data => {
+			console.log('Received: ', data);
+		});
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+32. De-structuring :
+- de-structuring extract properties from objects easily.
+- we can extract more than one property at once.
+- shorthand property: {message: message} simplifies to just message.
+- shorthand method: define methods directly inside the object without the function keyword.
+- e.g. 
+	// de-structuring example
+	let product = {
+		company: 'Mango',
+		itemName: 'Cotton striped t-shirt',
+		price: 8626
+	};
+	let company = product.company	// de-structuring 
+	let { company } = product	// is same as this
+- e.g. 
+	// shorthand property
+	let price = 8626;
+	let product = {			// setting property
+		company: 'Mango',
+		itemName: 'Cotton striped t-shirt',
+		price: price
+	};
+	let product1 = {		// is same as this
+		company: 'Mango',
+		itemName: 'Cotton striped t-shirt',
+		price: price
+	};
+- e.g.
+	// shorthand method
+	let product = {			// setting method
+		company: 'Mango',
+		itemName: 'Cotton striped t-shirt',
+		displayPrice: function() {
+			return `$${this.price.toFixed(2)}`;
+		}
+	};
+
+	let product1 = {		// is same as this
+		company: 'Mango',
+		itemName: 'Cotton striped t-shirt',
+		displayPrice() {
+			return `$${this.price.toFixed(2)}`
+		}
+	};
+
+- also we can arrow function.
+--------------------------------------------------------------------------------
+
+
+
+33. Spread & Rest Operator:
+(Spread Operator)
+	- represented by three dots (...), the spread operator is used to expand elements of an iterable (like an array or string) into individual elements.
+	- useful for copying arrays and objects without modifying the original.
+	- ensures immutability in the functions where modification of inputs is not designed.
+
+(Rest Operator)
+	- represented by three dots(...), the rest operator is used to collect multiple elements into a single array or object.
+	- allows function to accept an indefinite number of arguments as an array.
+	- used to collect the remaining elements of an array after.
+	- used to collect the remaining properties of an object after extracting some properties. 
+
+- to break an array into an individual elements that is work of Spread Operator.
+- and to get individual elements into an array is a work of Rest Operator.
+-------------------------------------------------------------------------------------------------
+
+
+
+34. Promises:
+	- promise need a callback hell.
+	- when multiple asynchronous operations need to be performed in sequence, callbacks can lead to deeply nested and hard-to-read code, often referred to as "callback hell".
+
+(State of Promises)
+	- a promise is an object representing the eventual completion or failure of an asynchronous operation.
+	- states of promises:
+		1. Pending: initial state, neither fulfilled nor rejected.
+		2. Fulfilled: Operation completed successfully.
+		3. Rejected: Operation failed.
+	- how to create promise?
+		let promise = new promise((resolve, reject) => {	// creating promise 
+			if(result()) {			// asynchronous operation
+				resolve('Success');
+			} else {
+				reject('Error');
+			}
+		});
+	- promises are created using the promise constructor, which takes an executor function with two arguments: resolve and reject.
+ 
+(Handling of promises)
+	- promises have then, catch, and finally methods for handling the result of the asynchronous operations.
+	1. then(): used to handle fulfilment.
+	2. catch(): used to handle rejection.
+	3. finally(): executes a block of code regardless of the promise's outcome.
+	- e.g.	
+		// handling a promise: handle value
+		promise.then(value => {
+			console.log(value);	// Success
+		});
+
+		// handling a promise: handle rejection 
+		promise.catch(error => {
+			console.error(error);	// Error
+		});
+
+		// handling a promise: executes a block of code regardless of the promise's outcome
+		promise.finally(() => {
+			console.log('Operation Completed.');
+		});	
+----------------------------------------------------------------------------------------
+
+
+
+35. Fetch API:
+	- the fetch API provides a modern way to make HTTP requests in JavaScript.
+	- it is a promise-bases API, making it easier to handle asynchronous requests.
+----------------------------------------------------------------------------------------------
+
+
+
+36. Async / Await:
+	- async / await is built on top of promises, providing a cleaner and more readable way to work with asynchronous code.
+	- an sync functions is declared using the async keyword before the function definition. this function always returns a promise.
+	- the await keyword is used to pause the execution of an async function until a promise is resolved. it can only be used inside an async function.
+	- e.g. 
+		// using async
+		async function myFunction() {
+			return 'Hello';
+		}
+
+		// using await
+		async function fetchData() {
+			let response = await fetch('https://api.example/com/data');
+			let data = await response.json();
+			return data;	
+		}
+(Handling exception in async / await)
+	- errors in async functions can be handled using try...catch blocks, making error management straightforward and consistent with the synchronous code.
+	- e.g.
+		async function getData() {
+			try {
+				let response = await fetch('https://api.example.com/data');
+				let data = await response.json();
+				return data;
+			} catch (error) {
+				console.error('Error: ', error);
+			}
+		}
+-----------------------------------------------------------------------------------------------------------------
+
+
+							END 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
