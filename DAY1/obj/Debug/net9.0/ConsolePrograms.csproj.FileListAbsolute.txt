@@ -1,0 +1,14 @@
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\bin\Debug\net9.0\ConsolePrograms.exe
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\bin\Debug\net9.0\ConsolePrograms.deps.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\bin\Debug\net9.0\ConsolePrograms.runtimeconfig.json
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\bin\Debug\net9.0\ConsolePrograms.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\bin\Debug\net9.0\ConsolePrograms.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.AssemblyInfoInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.AssemblyInfo.cs
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.csproj.CoreCompileInputs.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\refint\ConsolePrograms.dll
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.pdb
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ConsolePrograms.genruntimeconfig.cache
+C:\Users\SR COMPUTER\Downloads\WIPRO\C#.NET\ConsolePrograms\obj\Debug\net9.0\ref\ConsolePrograms.dll
